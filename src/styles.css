@@ -3,4 +3,9 @@
 body
 {
 background-image: url(assets/pexels-alex-azabache-4007310.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 90%;
+width: 90%;
+
 }
